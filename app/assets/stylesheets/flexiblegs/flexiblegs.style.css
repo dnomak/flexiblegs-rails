@@ -1,0 +1,43 @@
+/*! flexiblegs.style.css */
+
+/* Wrapper */
+
+  [class*="xl-"],[class*="lg-"],[class*="md-"],[class*="sm-"],[class*="xs-"] {
+    font-size: 12px;
+  }
+
+/* Your Style */
+
+/* Responsive */
+
+  /* lg */
+
+    @media (max-width: 1024px) {
+
+      /* Your Style */
+
+    }
+
+  /* md */
+
+    @media (max-width: 768px) {
+
+      /* Your Style */
+
+    }
+
+  /* sm */
+
+    @media (max-width: 568px) {
+
+      /* Your Style */
+
+    }
+
+  /* xs */
+
+    @media (max-width: 320px) {
+
+      /* Your Style */
+
+    }

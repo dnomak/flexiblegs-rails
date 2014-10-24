@@ -2,6 +2,7 @@ require "flexiblegs/rails/version"
 
 module Flexiblegs
   module Rails
-    # Your code goes here...
+    class Engine < Rails::Engine
+    end
   end
 end
